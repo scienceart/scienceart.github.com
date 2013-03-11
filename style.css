@@ -1,0 +1,14 @@
+body 
+{
+	background-image:url('simple_dashed.png');
+	background-repeat: repeat;
+	text-align: center;
+	color:rgb(220,220,220);
+}
+
+h1
+{
+	color:rgb(200,200,200);
+	font-family: Helvetica, Arial, sans-serif
+
+}
