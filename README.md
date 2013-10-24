@@ -1,5 +1,6 @@
-scienceart.github.com
+UNSEEN DIMENSIONS:
 =====================
+>>DIALOGUES IN ART AND SCIENCE
 
 This repository has all the files which constitute our website.
 
